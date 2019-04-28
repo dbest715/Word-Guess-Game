@@ -1,0 +1,32 @@
+body {
+    margin:auto;
+    padding:0;
+    background-image: url("../images/90s-background.png")
+  }
+
+.content {
+    background-color: white;
+    margin-top: 39px;
+    margin:auto;
+    height: 500px;
+    max-width: 960px;
+    border-style: solid;
+    border-color: #ddd;
+    margin-bottom:20px;
+}
+
+#pagetitle {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    background-color: black
+}
+
+#instructions {
+    text-align: center;
+    color: purple;
+}
+
+#results {
+    text-align: right;
+}
